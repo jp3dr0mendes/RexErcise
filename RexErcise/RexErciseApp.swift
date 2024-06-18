@@ -11,7 +11,7 @@ import SwiftUI
 struct RexErciseApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBar()
         }
     }
 }
